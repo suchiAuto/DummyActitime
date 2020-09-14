@@ -32,6 +32,7 @@ public class LoginToApp {
 	{
 		System.out.println("LOgo Not Displayed");
 	}
+	System.out.println("Print msg");
 	//Assert.assertTrue(flg);
 	
 		
